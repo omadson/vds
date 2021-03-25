@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "vdc"
+version = "0.1.0"
+description = ""
+authors = ["Madson Dias <madsonddias@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+jupyterlab = "^3.0.12"
+numpy = "^1.20.1"
+matplotlib = "^3.3.4"
+seaborn = "^0.11.1"
+pandas = "^1.2.3"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
