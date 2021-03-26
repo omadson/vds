@@ -1,2 +1,2 @@
-# vdc
-Various vanilla data science models.
+# VDS
+Vanilla Data Science Models.
